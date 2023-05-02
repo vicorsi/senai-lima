@@ -15,6 +15,7 @@
     margin: 0 auto;
     padding: 20px;
     background-color: #fff;
+    opacity: 75%;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   }
@@ -93,7 +94,7 @@
   }
   
   li button:hover {
-    background-color: #c9302c;
+    background-color: #ffb3b1;
   }
   
   @keyframes fadein {
